@@ -1,0 +1,3712 @@
+[
+  {
+    "Name": "Cunoașterea aeronavei",
+    "Questions": [
+      {
+        "Id": 1,
+        "Text": "Pentru frânarea aerodinamică, planoarele pot folosi:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "toate celelalte 3 răspunsuri sunt corecte"
+          },
+          {
+            "Id": 1,
+            "Text": "frâne aerodinamice amplasate pe fuselaj"
+          },
+          {
+            "Id": 2,
+            "Text": "frâne aerodinamice amplasate pe aripi"
+          },
+          {
+            "Id": 3,
+            "Text": "parașute de frânare"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 2,
+        "Text": "Aranjați următoarele materiale constructive ale structurii unui planor în ordinea crescătoare a densității materialului:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "dural, fibră carbon, lemn, oțel inox"
+          },
+          {
+            "Id": 1,
+            "Text": "fibră carbon, oțel inox, lemn, dural"
+          },
+          {
+            "Id": 2,
+            "Text": "lemn, dural, oțel inox, fibră carbon"
+          },
+          {
+            "Id": 3,
+            "Text": "lemn, fibră carbon, dural, oțel inox"
+          }
+        ],
+        "CorrectOptionId": 3
+      },
+      {
+        "Id": 3,
+        "Text": "Structurile de tip sandwich sunt formate din două:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Straturi subțiri cu un miez din material greu"
+          },
+          {
+            "Id": 1,
+            "Text": "Straturi groase cu miez din material greu"
+          },
+          {
+            "Id": 2,
+            "Text": "Straturi subțiri cu un miez din material ușor"
+          },
+          {
+            "Id": 3,
+            "Text": "Straturi groase cu un miez din material ușor"
+          }
+        ],
+        "CorrectOptionId": 2
+      },
+      {
+        "Id": 4,
+        "Text": "O construcție de tip semi-monococă este formată din:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Lonjeron și lise"
+          },
+          {
+            "Id": 1,
+            "Text": "Cadre, lise și înveliș"
+          },
+          {
+            "Id": 2,
+            "Text": "Grinzi cu zăbrele"
+          },
+          {
+            "Id": 3,
+            "Text": "Nervuri"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 5,
+        "Text": "Marcați afirmația corectă: dacă compensatorul profundorului urcă, profundorul coboară și planorul coboară",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "dacă compensatorul profundorului urcă, profundorul coboară și planorul coboară"
+          },
+          {
+            "Id": 1,
+            "Text": "dacă compensatorul profundorului coboară, profundorul coboară și planorul coboară"
+          },
+          {
+            "Id": 2,
+            "Text": "dacă compensatorul profundorului coboară, profundorul urcă și planorul coboară"
+          },
+          {
+            "Id": 3,
+            "Text": "dacă compensatorul profundorului urcă, profundorul urcă și planorul urcă"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 6,
+        "Text": "Care este efectul inițial primar și secundar al mișcării manșei lateral spre stânga?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Primar: înclinare spre stânga; Secundar: rotire bot spre stânga"
+          },
+          {
+            "Id": 1,
+            "Text": "Primar: înclinare spre dreapta; Secundar: rotire bot spre dreapta"
+          },
+          {
+            "Id": 2,
+            "Text": "Primar: înclinare spre stânga; Secundar: rotire bot spre dreapta"
+          },
+          {
+            "Id": 3,
+            "Text": "Primar: rotire bot spre stânga; Secundar: înclinare spre dreapta"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 7,
+        "Text": "O mișcare în jurul axului transversal se realizează în primul rând cu ajutorul:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "eleroanelor"
+          },
+          {
+            "Id": 1,
+            "Text": "derivei"
+          },
+          {
+            "Id": 2,
+            "Text": "profundorului"
+          },
+          {
+            "Id": 3,
+            "Text": "direcției"
+          }
+        ],
+        "CorrectOptionId": 2
+      },
+      {
+        "Id": 8,
+        "Text": "În clasa Open se încadrează planoarele:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "masa maximă la decolare 525 kg, fără restricții la anvergură"
+          },
+          {
+            "Id": 1,
+            "Text": "masa maximă la decolare 850 kg, fără restricții la anvergură"
+          },
+          {
+            "Id": 2,
+            "Text": "masa minimă la decolare 850 kg, anvergură maximă 30 m"
+          },
+          {
+            "Id": 3,
+            "Text": "masa maximă la decolare 600 kg, fără restricții la anvergură"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 9,
+        "Text": "Manualul tehnic al planorului conține informații și despre:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "exploatarea la sol a planorului"
+          },
+          {
+            "Id": 1,
+            "Text": "întreținerea planorului"
+          },
+          {
+            "Id": 2,
+            "Text": "navigabilitate"
+          },
+          {
+            "Id": 3,
+            "Text": "toate celelalte trei răspunsuri sunt corecte"
+          }
+        ],
+        "CorrectOptionId": 3
+      },
+      {
+        "Id": 10,
+        "Text": "Indicați succesiunea corectă a manevrelor de demontare a aripii planorului:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "demontarea legăturilor comenzilor, scoaterea bolțurilor de fixare a aripii, scoaterea aripilor din fuselaj, demontarea carenajelor"
+          },
+          {
+            "Id": 1,
+            "Text": "scoaterea carenajelor, scoaterea bolțurilor de fixare a aripii, scoaterea aripilor din fuselaj, demontarea legăturilor comenzilor"
+          },
+          {
+            "Id": 2,
+            "Text": "scoaterea carenajelor, demontarea legăturilor comenzilor, scoaterea bolțurilor de fixare a aripii, scoaterea aripilor din fuselaj"
+          },
+          {
+            "Id": 3,
+            "Text": "scoaterea aripilor din fuselaj, scoaterea carenajelor, scoaterea bolțurilor de fixare a aripii, demontarea legăturilor comenzilor"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 11,
+        "Text": "Parașuta individuală de salvare este compusă din următoarele elemente:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "capotă de protecție, parașută extractoare, comandă de deschidere, voalură"
+          },
+          {
+            "Id": 1,
+            "Text": "voalură, parașută extractoare, ham de fixare, comandă de deschidere"
+          },
+          {
+            "Id": 2,
+            "Text": "ham de fixare, capotă de protecție, voalură, parașută extractoare, comandă de deschidere"
+          },
+          {
+            "Id": 3,
+            "Text": "voalură, capotă de protecție, ham de fixare, parașută extractoare"
+          }
+        ],
+        "CorrectOptionId": 2
+      },
+      {
+        "Id": 12,
+        "Text": "Rezervoarele de balast cu apă pot fi amplasate în:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "toate celelalte trei răspunsuri sunt corecte"
+          },
+          {
+            "Id": 1,
+            "Text": "structura fuselajului planorului"
+          },
+          {
+            "Id": 2,
+            "Text": "structura aripilor planorului"
+          },
+          {
+            "Id": 3,
+            "Text": "structura fuselajului și structura aripilor planorului"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 13,
+        "Text": "Compensarea este folosită pentru a:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "muta centrul de greutate"
+          },
+          {
+            "Id": 1,
+            "Text": "crește ruliul advers"
+          },
+          {
+            "Id": 2,
+            "Text": "adapta forța de control"
+          },
+          {
+            "Id": 3,
+            "Text": "bloca elementele de control"
+          }
+        ],
+        "CorrectOptionId": 2
+      },
+      {
+        "Id": 14,
+        "Text": "Când se compensează un avion cu nasul în sus, în ce direcție se mișcă compensatorul?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "în jos"
+          },
+          {
+            "Id": 1,
+            "Text": "în sus"
+          },
+          {
+            "Id": 2,
+            "Text": "depinde de poziția centrului de greutate"
+          },
+          {
+            "Id": 3,
+            "Text": "în direcția deflecției direcției"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 15,
+        "Text": "Grosimea aripii este definită ca distanța dintre partea inferioară și partea superioară a aripii la:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "partea cea mai interioară a aripii"
+          },
+          {
+            "Id": 1,
+            "Text": "partea cea mai exterioară a aripii"
+          },
+          {
+            "Id": 2,
+            "Text": "partea cea mai subțire a aripii"
+          },
+          {
+            "Id": 3,
+            "Text": "partea cea mai groasă a aripii"
+          }
+        ],
+        "CorrectOptionId": 3
+      },
+      {
+        "Id": 16,
+        "Text": "Un avion se mișcă în jurul a câte axe și cum se numesc acestea?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "4 axe: axa optică, axa imaginară, axa înclinată, axa răului"
+          },
+          {
+            "Id": 1,
+            "Text": "3 axe: axa verticală, axa laterală, axa longitudinală"
+          },
+          {
+            "Id": 2,
+            "Text": "3 axe: axa X, axa Y, axa Z"
+          },
+          {
+            "Id": 3,
+            "Text": "4 axe: axa verticală, axa laterală, axa longitudinală, axa vitezei"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 17,
+        "Text": "Sistemul Pitot-static este necesar pentru a:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "preveni înghețarea tubului Pitot"
+          },
+          {
+            "Id": 1,
+            "Text": "măsura presiunea totală și presiunea statică a aerului"
+          },
+          {
+            "Id": 2,
+            "Text": "corecta indicarea vitezometrului la zero când avionul stă pe sol"
+          },
+          {
+            "Id": 3,
+            "Text": "preveni acumularea de electricitate statică pe avion"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 18,
+        "Text": "Care manete din cabina unui planor sunt codificate prin culorile roșu, albastru și verde?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "manetele pentru frâne aerodinamice, blocarea capotei și trenul de aterizare"
+          },
+          {
+            "Id": 1,
+            "Text": "manetele pentru flaps, compensator și eleron"
+          },
+          {
+            "Id": 2,
+            "Text": "manetele pentru deschiderea parașutei de frânare, flaps și direcție"
+          },
+          {
+            "Id": 3,
+            "Text": "manetele pentru trim, frâne de picaj și profundor"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 19,
+        "Text": "HSI (Horizontal Situation Indicator) combină informații primite de la:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "indicatorul de atitudine și directorul de zbor"
+          },
+          {
+            "Id": 1,
+            "Text": "indicatorul de atitudine și indicatorul de direcție (compas giroscopic)"
+          },
+          {
+            "Id": 2,
+            "Text": "giroscopul direcțional și receptorul radio de navigație VOR/ILS"
+          },
+          {
+            "Id": 3,
+            "Text": "giroscopul direcțional și giroscopul de ruliu"
+          }
+        ],
+        "CorrectOptionId": 2
+      },
+      {
+        "Id": 20,
+        "Text": "Dacă tubul Pitot al unui planor se obturează în timpul zborului, care instrument va indica incorect?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "vitezometrul (indicatorul de viteză aer)"
+          },
+          {
+            "Id": 1,
+            "Text": "altimetrul (indicatorul de altitudine)"
+          },
+          {
+            "Id": 2,
+            "Text": "variometrul (indicatorul de viteză verticală)"
+          },
+          {
+            "Id": 3,
+            "Text": "busola magnetică"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 21,
+        "Text": "Când ajunge planorul la unghiul critic de incidență (unghi de angajare)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "atunci când viteza scade suficient de mult și unghiul de atac devine prea mare"
+          },
+          {
+            "Id": 1,
+            "Text": "atunci când viteza este prea mare și provoacă suprasarcini"
+          },
+          {
+            "Id": 2,
+            "Text": "doar în cazul zborului acrobat în viraj strâns"
+          },
+          {
+            "Id": 3,
+            "Text": "numai când centrul de greutate este în poziție prea posterioară"
+          }
+        ],
+        "CorrectOptionId": 0
+      }
+    ]
+  },
+  {
+    "Name": "Comunicații",
+    "Questions": [
+      {
+        "Id": 22,
+        "Text": "Care mesaj radiotelefonic are prioritate mai mare decât un mesaj de siguranță a zborului?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "un mesaj de primejdie (prefixat „MAYDAY”)"
+          },
+          {
+            "Id": 1,
+            "Text": "un mesaj de urgență (prefixat „PAN-PAN”)"
+          },
+          {
+            "Id": 2,
+            "Text": "un mesaj de raportare a poziției"
+          },
+          {
+            "Id": 3,
+            "Text": "un mesaj ATIS"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 23,
+        "Text": "La ce frecvență trebuie să intrați în legătură cu o aeronavă care vă interceptează?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "121.50 MHz"
+          },
+          {
+            "Id": 1,
+            "Text": "123.45 MHz"
+          },
+          {
+            "Id": 2,
+            "Text": "119.10 MHz"
+          },
+          {
+            "Id": 3,
+            "Text": "130.00 MHz"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 24,
+        "Text": "Ce obligație aveți dacă vi se defectează stația radio în timpul zborului într-un spațiu aerian de clasă G?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "puteți continua zborul conform planificării în spațiul necontrolat (G)"
+          },
+          {
+            "Id": 1,
+            "Text": "trebuie să aterizați de urgență cât mai curând"
+          },
+          {
+            "Id": 2,
+            "Text": "trebuie să vă întoarceți imediat la aerodromul de plecare"
+          },
+          {
+            "Id": 3,
+            "Text": "trebuie să urcați deasupra spațiului de clasă G"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 25,
+        "Text": "Folosirea stației radio la bordul aeronavei se face în baza:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "licenței stației de aeronavă și a certificatului de operator radiotelefonist"
+          },
+          {
+            "Id": 1,
+            "Text": "licenței de pilot și a cărții de identitate"
+          },
+          {
+            "Id": 2,
+            "Text": "certificatului general de operator radiotelefonist"
+          },
+          {
+            "Id": 3,
+            "Text": "autorizației emise de Aeroclubul României"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 26,
+        "Text": "Care este frecvența internațională de apel și primejdie în aviație?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "121.50 MHz"
+          },
+          {
+            "Id": 1,
+            "Text": "118.00 MHz"
+          },
+          {
+            "Id": 2,
+            "Text": "243.00 MHz"
+          },
+          {
+            "Id": 3,
+            "Text": "100.00 MHz"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 27,
+        "Text": "Ce indică un transponder setat pe codul 7500?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "deturnarea sau interferența ilicită asupra aeronavei"
+          },
+          {
+            "Id": 1,
+            "Text": "defecțiunea legăturilor radio (radio-comunicații întrerupte)"
+          },
+          {
+            "Id": 2,
+            "Text": "situație de urgență generală la bord"
+          },
+          {
+            "Id": 3,
+            "Text": "codul VFR standard în spațiul necontrolat"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 28,
+        "Text": "Ce semnifică procedura radiotelefonică „MAYDAY”?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "un apel de primejdie în caz de pericol grav și imediat, care necesită ajutor imediat"
+          },
+          {
+            "Id": 1,
+            "Text": "un apel de urgență pentru o situație care nu este imediat periculoasă"
+          },
+          {
+            "Id": 2,
+            "Text": "un mesaj de rutină către servicii de trafic aerian"
+          },
+          {
+            "Id": 3,
+            "Text": "o confirmare a recepției unui mesaj de către stația sol"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 29,
+        "Text": "Ce semnifică în radiotelefonie expresia „PAN-PAN”?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "un apel de urgență care indică o situație urgentă, dar fără pericol imediat de viață"
+          },
+          {
+            "Id": 1,
+            "Text": "un apel de primejdie care indică pericol grav și imediat"
+          },
+          {
+            "Id": 2,
+            "Text": "un mesaj de solicitare a unui serviciu de handling la sol"
+          },
+          {
+            "Id": 3,
+            "Text": "indicativul unei proceduri de urcare rapidă"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 30,
+        "Text": "În frazeologia standard, cuvântul „ROGER” indică:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Am primit și înțeles ultimul mesaj"
+          },
+          {
+            "Id": 1,
+            "Text": "Da (afirmație pozitivă)"
+          },
+          {
+            "Id": 2,
+            "Text": "Repetă ultimul mesaj"
+          },
+          {
+            "Id": 3,
+            "Text": "Transmiterea este terminată (încheiere comunicație)"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 31,
+        "Text": "În frazeologia standard, cuvântul „WILCO” indică:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Voi executa (instrucțiunile primite)"
+          },
+          {
+            "Id": 1,
+            "Text": "Sunt gata de comunicare (primit și gata să transmit)"
+          },
+          {
+            "Id": 2,
+            "Text": "Nu am înțeles, repetați"
+          },
+          {
+            "Id": 3,
+            "Text": "Se recomandă schimbarea frecvenței"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 32,
+        "Text": "Ce semnificație are codul transponder 7600?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "pierderea comunicațiilor radio (radio silent)"
+          },
+          {
+            "Id": 1,
+            "Text": "situație de detresă (primejdie)"
+          },
+          {
+            "Id": 2,
+            "Text": "act de interferență ilicită/deturnare"
+          },
+          {
+            "Id": 3,
+            "Text": "aeronava evoluează în spațiul aerian necontrolat"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 33,
+        "Text": "Ce semnificație are codul transponder 7700?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "situație de urgență sau primejdie la bord"
+          },
+          {
+            "Id": 1,
+            "Text": "pierderea contactului radio"
+          },
+          {
+            "Id": 2,
+            "Text": "act de interferență ilicită/deturnare"
+          },
+          {
+            "Id": 3,
+            "Text": "intrare neautorizată în spațiu aerian controlat"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 34,
+        "Text": "În terminologia radiotelefonică, expresia „STAND BY” înseamnă:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Așteptați"
+          },
+          {
+            "Id": 1,
+            "Text": "Transmiteți (sunteți chemat să vorbiți)"
+          },
+          {
+            "Id": 2,
+            "Text": "Încheiați transmisia"
+          },
+          {
+            "Id": 3,
+            "Text": "Repetați mesajul"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 35,
+        "Text": "În terminologia radiotelefonică, expresia „GO AHEAD” (sau „PASS YOUR MESSAGE”) înseamnă:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Continuați transmisia / Transmiteți mesajul"
+          },
+          {
+            "Id": 1,
+            "Text": "Treceți înaintea altui trafic"
+          },
+          {
+            "Id": 2,
+            "Text": "Terminare convorbire"
+          },
+          {
+            "Id": 3,
+            "Text": "Repetați de la capăt"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 36,
+        "Text": "Care este semnificația termenului „AFFIRM” în comunicațiile radio aeronautice?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Da / Afirmativ"
+          },
+          {
+            "Id": 1,
+            "Text": "Nu / Negativ"
+          },
+          {
+            "Id": 2,
+            "Text": "Mesaj recepționat"
+          },
+          {
+            "Id": 3,
+            "Text": "Se impune atenție (precauție)"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 37,
+        "Text": "Cum se transmite litera „N” în alfabetul fonetic aeronautic internațional?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "November"
+          },
+          {
+            "Id": 1,
+            "Text": "Novemberul"
+          },
+          {
+            "Id": 2,
+            "Text": "Nevada"
+          },
+          {
+            "Id": 3,
+            "Text": "Nico"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 38,
+        "Text": "Cum se transmite numărul 5 (cinci) în comunicațiile radio standard?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Fife"
+          },
+          {
+            "Id": 1,
+            "Text": "Five"
+          },
+          {
+            "Id": 2,
+            "Text": "Fiver"
+          },
+          {
+            "Id": 3,
+            "Text": "Faiv"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 39,
+        "Text": "Care este indicativul radiotelefonic folosit de aeronavele cu masa mare (categoria heavy)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Se adaugă cuvântul „Heavy” după indicativul de apel al aeronavei"
+          },
+          {
+            "Id": 1,
+            "Text": "Se folosește sufixul „Super” înaintea indicativului"
+          },
+          {
+            "Id": 2,
+            "Text": "Se înlocuiește complet indicativul cu codul ICAO al aeronavei"
+          },
+          {
+            "Id": 3,
+            "Text": "Nu există nicio diferență în indicativ față de alte aeronave"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 40,
+        "Text": "Care este frecvența utilizată în mod normal pentru comunicațiile sol-sol între piloți (canal de trafic aerian necontrolat)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "123.45 MHz"
+          },
+          {
+            "Id": 1,
+            "Text": "121.50 MHz"
+          },
+          {
+            "Id": 2,
+            "Text": "118.00 MHz"
+          },
+          {
+            "Id": 3,
+            "Text": "136.50 MHz"
+          }
+        ],
+        "CorrectOptionId": 0
+      }
+    ]
+  },
+  {
+    "Name": "Legislație aeronautică",
+    "Questions": [
+      {
+        "Id": 41,
+        "Text": "Este obligatoriu carnetul de zbor în desfășurarea activităților de zbor cu aeronave ultraușoare?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "da"
+          },
+          {
+            "Id": 1,
+            "Text": "nu"
+          },
+          {
+            "Id": 2,
+            "Text": "doar în perioada de instruire"
+          },
+          {
+            "Id": 3,
+            "Text": "doar pentru zborurile de școală"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 42,
+        "Text": "Cu ce zonă geografică corespunde harta VFR AIP România cu indicativul LR-1?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Muntenia"
+          },
+          {
+            "Id": 1,
+            "Text": "Transilvania"
+          },
+          {
+            "Id": 2,
+            "Text": "Moldova"
+          },
+          {
+            "Id": 3,
+            "Text": "Dobrogea"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 43,
+        "Text": "Cine poartă întreaga responsabilitate pentru acțiunile desfășurate în timpul activității de zbor, conform legii?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "pilotul comandant (pilotul la comenzi)"
+          },
+          {
+            "Id": 1,
+            "Text": "instructorii din zona de zbor"
+          },
+          {
+            "Id": 2,
+            "Text": "directorii de concurs"
+          },
+          {
+            "Id": 3,
+            "Text": "controlorii de trafic aerian"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 44,
+        "Text": "Cu ce zonă geografică corespunde harta VFR AIP România cu indicativul LR-2?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Muntenia"
+          },
+          {
+            "Id": 1,
+            "Text": "Transilvania"
+          },
+          {
+            "Id": 2,
+            "Text": "Moldova"
+          },
+          {
+            "Id": 3,
+            "Text": "Banat"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 45,
+        "Text": "Care act normativ stabilește modul și condițiile de certificare a personalului aeronautic în domeniul AUN (aeronave ultraușoare nemotorizate)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Codul Aerian"
+          },
+          {
+            "Id": 1,
+            "Text": "RACR-RA (Regulament Aeronautic)"
+          },
+          {
+            "Id": 2,
+            "Text": "OM 630/2007"
+          },
+          {
+            "Id": 3,
+            "Text": "HG 912/2010"
+          }
+        ],
+        "CorrectOptionId": 2
+      },
+      {
+        "Id": 46,
+        "Text": "Cine poate instrui în activitățile de zbor cu parapanta conform reglementărilor?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "oricare pilot avansat"
+          },
+          {
+            "Id": 1,
+            "Text": "instructorul licențiat"
+          },
+          {
+            "Id": 2,
+            "Text": "un pilot cu stație radio"
+          },
+          {
+            "Id": 3,
+            "Text": "pilotul automat"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 47,
+        "Text": "Cum este caracterizat zborul \"școală\"?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "zbor efectuat pentru pregătire în vederea participării la competiții"
+          },
+          {
+            "Id": 1,
+            "Text": "zbor efectuat în vederea stabilirii de recorduri"
+          },
+          {
+            "Id": 2,
+            "Text": "zbor efectuat sub supravegherea instructorului pentru inițiere sau instruire"
+          },
+          {
+            "Id": 3,
+            "Text": "zbor efectuat fără plan de zbor"
+          }
+        ],
+        "CorrectOptionId": 2
+      },
+      {
+        "Id": 48,
+        "Text": "Cine întocmește fișa de pregătire teoretică și practică la sol și în zbor?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "instructorul sub supravegherea căruia s-a finalizat pregătirea"
+          },
+          {
+            "Id": 1,
+            "Text": "elevul pilot"
+          },
+          {
+            "Id": 2,
+            "Text": "inspectorul examinator"
+          },
+          {
+            "Id": 3,
+            "Text": "organizația de zbor"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 49,
+        "Text": "Care este punctajul minim necesar pentru promovarea examenului teoretic?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "70%"
+          },
+          {
+            "Id": 1,
+            "Text": "75% la fiecare din tematici"
+          },
+          {
+            "Id": 2,
+            "Text": "75% în cel puțin jumătate din tematici"
+          },
+          {
+            "Id": 3,
+            "Text": "80% punctaj total"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 50,
+        "Text": "La ce vârstă minimă poate o persoană să desfășoare activități de zbor cu aeronave ultraușoare nemotorizate (AUN) ca pilot?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "16 ani împliniți"
+          },
+          {
+            "Id": 1,
+            "Text": "18 ani împliniți"
+          },
+          {
+            "Id": 2,
+            "Text": "15 ani împliniți"
+          },
+          {
+            "Id": 3,
+            "Text": "14 ani cu acord parental"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 51,
+        "Text": "La ce vârstă minimă poate o persoană să desfășoare activități de zbor AUN ca elev-pilot, conform OM 630/2007?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "16 ani împliniți"
+          },
+          {
+            "Id": 1,
+            "Text": "15 ani împliniți"
+          },
+          {
+            "Id": 2,
+            "Text": "18 ani împliniți"
+          },
+          {
+            "Id": 3,
+            "Text": "14 ani împliniți"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 52,
+        "Text": "Care este valabilitatea testelor teoretice și practice de îndemânare în zbor, conform reglementărilor?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "3 luni"
+          },
+          {
+            "Id": 1,
+            "Text": "6 luni"
+          },
+          {
+            "Id": 2,
+            "Text": "12 luni"
+          },
+          {
+            "Id": 3,
+            "Text": "24 luni"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 53,
+        "Text": "Ce reprezintă \"planul de zbor\" conform definiției legale?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "ansamblul de informații specifice furnizate serviciilor de trafic cu privire la zborul pe care o aeronavă urmează să-l efectueze"
+          },
+          {
+            "Id": 1,
+            "Text": "ruta definită și proiectată între două aeroporturi"
+          },
+          {
+            "Id": 2,
+            "Text": "metoda de navigație utilizată în zborul respectiv"
+          },
+          {
+            "Id": 3,
+            "Text": "graficul de zbor săptămânal al operatorului aerian"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 54,
+        "Text": "Care sunt documentele necesare unui pilot străin pentru a putea desfășura activități de zbor pe teritoriul României?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "licența de pilot valabilă și IPPI Card"
+          },
+          {
+            "Id": 1,
+            "Text": "IPPI Card (card de performer internațional)"
+          },
+          {
+            "Id": 2,
+            "Text": "un aviz special din partea AACR"
+          },
+          {
+            "Id": 3,
+            "Text": "pașaport și asigurare de răspundere civilă"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 55,
+        "Text": "Care eveniment este considerat \"accident\" conform Codului Aerian în vigoare?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "rănirea gravă sau moartea unei persoane atunci când se află într-o aeronavă"
+          },
+          {
+            "Id": 1,
+            "Text": "producerea unui infarct miocardic în interiorul unei aeronave"
+          },
+          {
+            "Id": 2,
+            "Text": "rănirea unui pasager clandestin aflat în interiorul calei aeronavei"
+          },
+          {
+            "Id": 3,
+            "Text": "orice deteriorare a aeronavei indiferent de cauză"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 56,
+        "Text": "Care este principalul act normativ care reglementează activitatea de zbor cu AUN în România?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "OM 630/2007"
+          },
+          {
+            "Id": 1,
+            "Text": "Legea 21/2020 (Codul Aerian)"
+          },
+          {
+            "Id": 2,
+            "Text": "HG 912/2010"
+          },
+          {
+            "Id": 3,
+            "Text": "RACR LPAN"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 57,
+        "Text": "În ce interval de timp se execută zborurile VFR (condiții de vedere)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "între răsăritul și apusul soarelui"
+          },
+          {
+            "Id": 1,
+            "Text": "cu 30 de minute după răsărit până la 30 de minute înainte de apus"
+          },
+          {
+            "Id": 2,
+            "Text": "nu există o regulă specifică în noile reglementări"
+          },
+          {
+            "Id": 3,
+            "Text": "doar în orele de program ale aerodromului"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 58,
+        "Text": "Cui revine dreptul de a efectua activități de inspecție în teritoriu, conform legii?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "inspectorilor autorizați"
+          },
+          {
+            "Id": 1,
+            "Text": "instructorilor"
+          },
+          {
+            "Id": 2,
+            "Text": "examinatorilor"
+          },
+          {
+            "Id": 3,
+            "Text": "jandarmeriei aeriene"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 59,
+        "Text": "Care este scopul investigației tehnice în cazul incidentelor și accidentelor de aviație?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "stabilirea faptelor, cauzelor și împrejurărilor care au condus la producerea evenimentului, pentru prevenirea recurenței"
+          },
+          {
+            "Id": 1,
+            "Text": "stabilirea culpabilităților și responsabilităților penale"
+          },
+          {
+            "Id": 2,
+            "Text": "calcularea pagubelor materiale și despăgubirea părților"
+          },
+          {
+            "Id": 3,
+            "Text": "determinarea validității licenței pilotului în cauză"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 60,
+        "Text": "Inspectorul examinator are obligația să verifice carnetul de zbor al candidatului în cadrul examinării?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "nu, deoarece doar instructorul cunoaște deja aceste informații"
+          },
+          {
+            "Id": 1,
+            "Text": "da, este obligatoriu să verifice experiența de zbor a candidatului"
+          },
+          {
+            "Id": 2,
+            "Text": "doar dacă examenul este pentru obținerea primei licențe"
+          },
+          {
+            "Id": 3,
+            "Text": "doar în cazul convertirii unei licențe străine"
+          }
+        ],
+        "CorrectOptionId": 1
+      }
+    ]
+  },
+  {
+    "Name": "Meteorologie",
+    "Questions": [
+      {
+        "Id": 61,
+        "Text": "Meteorologia este:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "știința care se ocupă cu studiul atmosferei și al fenomenelor din atmosferă"
+          },
+          {
+            "Id": 1,
+            "Text": "disciplina care se ocupă cu studiul prognozei meteorologice"
+          },
+          {
+            "Id": 2,
+            "Text": "știința care se ocupă cu predicția vremii"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 62,
+        "Text": "Presiunea atmosferică este:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "apăsarea exercitată de o coloană de aer având suprafața bazei de 1 cm² și înălțimea egală cu înălțimea atmosferei"
+          },
+          {
+            "Id": 1,
+            "Text": "greutatea aerului raportată la unitatea de suprafață în condiții standard"
+          },
+          {
+            "Id": 2,
+            "Text": "forța exercitată de aer pe unitatea de volum"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 63,
+        "Text": "Prin direcția vântului, în meteorologie se înțelege:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "direcția dinspre care „suflă” (vine) vântul"
+          },
+          {
+            "Id": 1,
+            "Text": "direcția înspre care „suflă” vântul"
+          },
+          {
+            "Id": 2,
+            "Text": "nordul geografic al zonei"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 64,
+        "Text": "Valoarea gradientului termic vertical mediu (atmosferă standard) este:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "1°C/100 m"
+          },
+          {
+            "Id": 1,
+            "Text": "0,5°C/100 m"
+          },
+          {
+            "Id": 2,
+            "Text": "0,65°C/100 m"
+          }
+        ],
+        "CorrectOptionId": 2
+      },
+      {
+        "Id": 65,
+        "Text": "Ce reprezintă nivelul de condensare?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "înălțimea la care apar norii"
+          },
+          {
+            "Id": 1,
+            "Text": "altitudinea la care umezeala relativă ajunge la 100% (saturație)"
+          },
+          {
+            "Id": 2,
+            "Text": "nivelul (presiune) la care se măsoară baza norilor"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 66,
+        "Text": "În care nori apar descărcări electrice (fulgere)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Cumulus humilis"
+          },
+          {
+            "Id": 1,
+            "Text": "Cumulonimbus"
+          },
+          {
+            "Id": 2,
+            "Text": "Stratus"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 67,
+        "Text": "Cum variază temperatura aerului în troposferă cu creșterea altitudinii?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Scade aproximativ liniar cu ~0,65°C la fiecare 100 m până la tropopauză"
+          },
+          {
+            "Id": 1,
+            "Text": "Scade cu ~1°C/100m până la tropopauză"
+          },
+          {
+            "Id": 2,
+            "Text": "Crește cu altitudinea în troposferă"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 68,
+        "Text": "Ce valoare are presiunea medie la nivelul mării (atmosfera standard)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "1013 hPa (sau 760 mmHg)"
+          },
+          {
+            "Id": 1,
+            "Text": "100 hPa"
+          },
+          {
+            "Id": 2,
+            "Text": "1120 hPa"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 69,
+        "Text": "Care parte a atmosferei determină vremea de la suprafața Pământului (unde se formează majoritatea fenomenelor meteo)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Troposfera"
+          },
+          {
+            "Id": 1,
+            "Text": "Stratosfera"
+          },
+          {
+            "Id": 2,
+            "Text": "Mezosfera"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 70,
+        "Text": "Linia care unește punctele cu aceeași altitudine pe o hartă se numește:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "curbă de nivel"
+          },
+          {
+            "Id": 1,
+            "Text": "ortodromă"
+          },
+          {
+            "Id": 2,
+            "Text": "izoclină"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 71,
+        "Text": "O masă de aer Polar Maritim deasupra Marii Britanii va genera de obicei:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "cer senin, vizibilitate bună și temperaturi reci"
+          },
+          {
+            "Id": 1,
+            "Text": "ploi abundente și temperaturi ridicate"
+          },
+          {
+            "Id": 2,
+            "Text": "ceață densă și vânt puternic"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 72,
+        "Text": "Ce factori ar putea indica o tendință de formare a ceții?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "diferență (spread) mică între temperatură și punctul de rouă, temperatură în scădere"
+          },
+          {
+            "Id": 1,
+            "Text": "vânt puternic și umiditate scăzută"
+          },
+          {
+            "Id": 2,
+            "Text": "presiune ridicată și cer senin"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 73,
+        "Text": "Un front cald se deplasează (în condiții barice egale) cu o viteză aproximativ:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "egală cu viteza frontului rece"
+          },
+          {
+            "Id": 1,
+            "Text": "3/4 din viteza frontului rece"
+          },
+          {
+            "Id": 2,
+            "Text": "1/2 din viteza frontului rece"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 74,
+        "Text": "Un strat stabil în troposfera inferioară, într-un anticiclon staționar la latitudini medii se numește:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "inversiune de radiație"
+          },
+          {
+            "Id": 1,
+            "Text": "inversiune de frecare"
+          },
+          {
+            "Id": 2,
+            "Text": "strat adiabat sec"
+          }
+        ],
+        "CorrectOptionId": 1
+      },
+      {
+        "Id": 75,
+        "Text": "Linia de schimbare a datei (dateline) se află la:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "meridianul 180° (antemeridianul)"
+          },
+          {
+            "Id": 1,
+            "Text": "meridianul 0°"
+          },
+          {
+            "Id": 2,
+            "Text": "meridianul Greenwich"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 76,
+        "Text": "Semnul derivei este pozitiv când:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "vântul suflă din stânga"
+          },
+          {
+            "Id": 1,
+            "Text": "vântul suflă din dreapta"
+          },
+          {
+            "Id": 2,
+            "Text": "deriva este zero"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 77,
+        "Text": "Avertizările SIGMET sunt emise pentru:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "FIR/UIR (Regiunea de Informații de Zbor / Regiune Superioară de Informații de Zbor)"
+          },
+          {
+            "Id": 1,
+            "Text": "aerodromul de plecare și destinație"
+          },
+          {
+            "Id": 2,
+            "Text": "exclusiv spațiul aerian militar"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 78,
+        "Text": "Ce condiții meteo sunt de așteptat iarna în zone de presiune înaltă (anticiclon)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "vreme calmă cu cer senin sau puțini nori (eventual stratus jos, ceață)"
+          },
+          {
+            "Id": 1,
+            "Text": "furtuni și averse de ploaie"
+          },
+          {
+            "Id": 2,
+            "Text": "ploi de lungă durată și vânt puternic"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 79,
+        "Text": "Norii lenticularis deasupra zonelor montane indică:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "curenți ascendenți de termică"
+          },
+          {
+            "Id": 1,
+            "Text": "inversiune"
+          },
+          {
+            "Id": 2,
+            "Text": "existența undelor orografice (curenți de undă montană)"
+          }
+        ],
+        "CorrectOptionId": 2
+      },
+      {
+        "Id": 80,
+        "Text": "O ceață de advecție se formează de obicei când:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "aerul cald și umed se deplasează peste o suprafață rece"
+          },
+          {
+            "Id": 1,
+            "Text": "aerul rece și uscat se deplasează peste o suprafață caldă"
+          },
+          {
+            "Id": 2,
+            "Text": "aerul umed este amestecat turbulent de vânt puternic până la răcire sub punctul de rouă"
+          }
+        ],
+        "CorrectOptionId": 0
+      }
+    ]
+  },
+  {
+    "Name": "Navigație",
+    "Questions": [
+      {
+        "Id": 81,
+        "Text": "Ce este GPS?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "un sistem global de navigație prin satelit"
+          },
+          {
+            "Id": 1,
+            "Text": "un sistem de control al zborului"
+          },
+          {
+            "Id": 2,
+            "Text": "un sistem de poziționare local fără sateliți"
+          },
+          {
+            "Id": 3,
+            "Text": "un instrument de bord analogic"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 82,
+        "Text": "Ce este UTC?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "timpul universal coordonat (ora fusului 0° Greenwich)"
+          },
+          {
+            "Id": 1,
+            "Text": "ora locală"
+          },
+          {
+            "Id": 2,
+            "Text": "ora actuală din zona de decolare"
+          },
+          {
+            "Id": 3,
+            "Text": "ora legală de vară"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 83,
+        "Text": "Cum se numește meridianul de longitudine 0°?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "meridianul Greenwich"
+          },
+          {
+            "Id": 1,
+            "Text": "meridianul Pascal"
+          },
+          {
+            "Id": 2,
+            "Text": "meridianul de referință NATO"
+          },
+          {
+            "Id": 3,
+            "Text": "antemeridianul"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 84,
+        "Text": "Ce reprezintă distanța (în sens geografic)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "lungimea liniei dintre două puncte"
+          },
+          {
+            "Id": 1,
+            "Text": "traseul (itinerarul) parcurs între două puncte"
+          },
+          {
+            "Id": 2,
+            "Text": "diferența de poziție între două puncte"
+          },
+          {
+            "Id": 3,
+            "Text": "intervalul de timp dintre parcurgerea a două repere"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 85,
+        "Text": "Care este numărul minim de sateliți necesari sistemului GPS pentru a stabili poziția 2D?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "3"
+          },
+          {
+            "Id": 1,
+            "Text": "4"
+          },
+          {
+            "Id": 2,
+            "Text": "5"
+          },
+          {
+            "Id": 3,
+            "Text": "2"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 86,
+        "Text": "Care este numărul minim de sateliți necesari sistemului GPS pentru a stabili poziția și altitudinea (3D)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "4"
+          },
+          {
+            "Id": 1,
+            "Text": "3"
+          },
+          {
+            "Id": 2,
+            "Text": "5"
+          },
+          {
+            "Id": 3,
+            "Text": "6"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 87,
+        "Text": "Cum se numește traseul de la decolare până la aterizare?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "traiect"
+          },
+          {
+            "Id": 1,
+            "Text": "itinerar"
+          },
+          {
+            "Id": 2,
+            "Text": "rută"
+          },
+          {
+            "Id": 3,
+            "Text": "plan de zbor"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 88,
+        "Text": "Prin ce metodă își stabilește GPS poziția?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "trilaterație (măsurarea distanței față de cel puțin 3 sateliți)"
+          },
+          {
+            "Id": 1,
+            "Text": "sistem radio terestru"
+          },
+          {
+            "Id": 2,
+            "Text": "balize NDB"
+          },
+          {
+            "Id": 3,
+            "Text": "trilateratie inversă (prin stații la sol)"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 89,
+        "Text": "Ce tip de hartă este necesar pentru un zbor VFR?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "hartă aeronautică de navigație (VFR) informativă"
+          },
+          {
+            "Id": 1,
+            "Text": "hartă operațională a aeroportului de plecare"
+          },
+          {
+            "Id": 2,
+            "Text": "hartă rutieră obișnuită"
+          },
+          {
+            "Id": 3,
+            "Text": "nu este necesară o hartă"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 90,
+        "Text": "În ce unități se măsoară de obicei viteza vântului în aviație?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "metri pe secundă (m/s), kilometri pe oră (km/h) sau noduri (kt)"
+          },
+          {
+            "Id": 1,
+            "Text": "kilometri (km)"
+          },
+          {
+            "Id": 2,
+            "Text": "noduri pe oră (knots/hour)"
+          },
+          {
+            "Id": 3,
+            "Text": "mile pe oră"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 91,
+        "Text": "Care sunt etapele principale ale planificării unui zbor VFR?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "alegerea hărților, verificarea prognozei meteo, trasarea traiectului pe hartă"
+          },
+          {
+            "Id": 1,
+            "Text": "desenarea hărților noi, verificarea prognozei meteo, planificarea combustibilului"
+          },
+          {
+            "Id": 2,
+            "Text": "calcularea prognozei meteo, alegerea traiectului, obținerea autorizării de la ROMATSA"
+          },
+          {
+            "Id": 3,
+            "Text": "depunerea planului de zbor, rezervarea spațiului aerian, anunțarea aerodromului de destinație"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 92,
+        "Text": "Ce este nivelmentul?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "totalitatea procedeelor de determinare a altitudinii punctelor unui teren"
+          },
+          {
+            "Id": 1,
+            "Text": "totalitatea formelor de relief specifice unei hărți topografice"
+          },
+          {
+            "Id": 2,
+            "Text": "planeitatea terenului (cât de plat este terenul)"
+          },
+          {
+            "Id": 3,
+            "Text": "măsurarea distanței dintre două puncte topografice"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 93,
+        "Text": "Care dintre următoarele metode de navigație este folosită la zborul VFR?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "navigația vizuală (pilotaj după repere)"
+          },
+          {
+            "Id": 1,
+            "Text": "navigația estimată (dead reckoning)"
+          },
+          {
+            "Id": 2,
+            "Text": "navigația instrumentală pură"
+          },
+          {
+            "Id": 3,
+            "Text": "navigația după radionavigație (exclusiv NDB/VOR)"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 94,
+        "Text": "Care sunt cele patru direcții geografice cardinale?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Nord, Est, Sud, Vest"
+          },
+          {
+            "Id": 1,
+            "Text": "Nord, Nord-Vest, Est, Sud-Est"
+          },
+          {
+            "Id": 2,
+            "Text": "Est, Sud-Est, Vest, Nord-Vest"
+          },
+          {
+            "Id": 3,
+            "Text": "Nord, Est, Sud, Est-Vest"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 95,
+        "Text": "Cum sunt numerotate meridianele geografice (longitudine)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "în ambele sensuri, către est și către vest, pornind de la meridianul 0°"
+          },
+          {
+            "Id": 1,
+            "Text": "de la est spre vest, de la 0° la 360°"
+          },
+          {
+            "Id": 2,
+            "Text": "de la vest spre est, de la 0° la 360°"
+          },
+          {
+            "Id": 3,
+            "Text": "de la ecuator către poli"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 96,
+        "Text": "Cum sunt numerotate paralelele geografice (latitudine)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "de la Ecuator spre nord și spre sud (0° la 90°)"
+          },
+          {
+            "Id": 1,
+            "Text": "de la Ecuator spre sud doar"
+          },
+          {
+            "Id": 2,
+            "Text": "de la Polul Nord la Polul Sud"
+          },
+          {
+            "Id": 3,
+            "Text": "de la vest la est"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 97,
+        "Text": "Câte minute are un grad de latitudine sau longitudine?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "60"
+          },
+          {
+            "Id": 1,
+            "Text": "10"
+          },
+          {
+            "Id": 2,
+            "Text": "600"
+          },
+          {
+            "Id": 3,
+            "Text": "90"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 98,
+        "Text": "Ce este declinația magnetică (deviația magnetică regională)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "unghiul dintre nordul magnetic și nordul geografic"
+          },
+          {
+            "Id": 1,
+            "Text": "diferența între direcția busolei și direcția de zbor"
+          },
+          {
+            "Id": 2,
+            "Text": "unghiul dintre direcția aeronavei și nord"
+          },
+          {
+            "Id": 3,
+            "Text": "corecția necesară pentru vânt lateral"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 99,
+        "Text": "Câte minute înseamnă 0,25° (un sfert de grad)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "15 minute"
+          },
+          {
+            "Id": 1,
+            "Text": "45 minute"
+          },
+          {
+            "Id": 2,
+            "Text": "25 minute"
+          },
+          {
+            "Id": 3,
+            "Text": "30 minute"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 100,
+        "Text": "Care este distanța maximă până la care trebuie menținut contactul radio cu organul de trafic al unui spațiu aerian controlat pe care îl părăsiți?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "până la ieșirea din zona controlată (imediat ce ați părăsit spațiul aerian controlat)"
+          },
+          {
+            "Id": 1,
+            "Text": "până la limita de audibilitate radio"
+          },
+          {
+            "Id": 2,
+            "Text": "până la aterizarea pe un aerodrom din spațiul G"
+          },
+          {
+            "Id": 3,
+            "Text": "nu este obligatoriu să mențineți contactul radio în spațiul controlat"
+          }
+        ],
+        "CorrectOptionId": 0
+      }
+    ]
+  },
+  {
+    "Name": "Performanțe de zbor",
+    "Questions": [
+      {
+        "Id": 101,
+        "Text": "Greutatea unei aeronave fără încărcătură (G gol) și determinarea centrului de greutate (CG) sunt determinate inițial sau după modificări structurale:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "prin cântărire pentru fiecare aeronavă în parte și înscrierea datelor în fișa de cântărire și centraj"
+          },
+          {
+            "Id": 1,
+            "Text": "numai prin calcule teoretice și înscriere în fișa de centraj"
+          },
+          {
+            "Id": 2,
+            "Text": "prin datele furnizate de producător corelate cu greutatea pilotului standard (80 kg)"
+          },
+          {
+            "Id": 3,
+            "Text": "o singură dată pentru un tip de aeronavă, valorile aplicându-se la toate exemplarele acelui tip"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 102,
+        "Text": "Cine stabilește limitele de centraj (centrul de greutate înainte și înapoi admis)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Autoritatea Aeronautică Civilă a statului de înmatriculare"
+          },
+          {
+            "Id": 1,
+            "Text": "Asigurătorul aeronavei"
+          },
+          {
+            "Id": 2,
+            "Text": "prin normele ICAO"
+          },
+          {
+            "Id": 3,
+            "Text": "producătorul aeronavei (în certificarea de tip)"
+          }
+        ],
+        "CorrectOptionId": 3
+      },
+      {
+        "Id": 103,
+        "Text": "Termenul „centru de greutate” este definit ca:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "punctul în care întreaga greutate a aeronavei acționează vertical (rezultanta greutății)"
+          },
+          {
+            "Id": 1,
+            "Text": "o altă denumire pentru punctul neutru aerodinamic"
+          },
+          {
+            "Id": 2,
+            "Text": "jumătatea distanței dintre punctul neutru și axa de referință"
+          },
+          {
+            "Id": 3,
+            "Text": "cel mai greu punct al aeronavei"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 104,
+        "Text": "Aeronava se află în echilibru static dacă:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "suma momentelor forțelor care acționează asupra aeronavei față de CG este nulă"
+          },
+          {
+            "Id": 1,
+            "Text": "suma momentelor forțelor față de CG este pozitivă"
+          },
+          {
+            "Id": 2,
+            "Text": "suma momentelor forțelor față de CG este negativă"
+          },
+          {
+            "Id": 3,
+            "Text": "suma forțelor care acționează asupra aeronavei față de CG este nulă"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 105,
+        "Text": "Viteza de angajare (stall) a unei aeronave va fi cea mai mare dacă este încărcată cu:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "masă maximă și centrul de greutate (CG) în poziția cea mai posterioară"
+          },
+          {
+            "Id": 1,
+            "Text": "masă maximă și CG în poziția cea mai față (anterioară)"
+          },
+          {
+            "Id": 2,
+            "Text": "masă minimă și CG în poziția cea mai față"
+          },
+          {
+            "Id": 3,
+            "Text": "masă minimă și CG în poziția cea mai spate"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 106,
+        "Text": "Care secțiune a manualului de zbor conține informațiile privitoare la masa proprie (gol) a planorului?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "Fișa de încărcare și centraj"
+          },
+          {
+            "Id": 1,
+            "Text": "Proceduri normale"
+          },
+          {
+            "Id": 2,
+            "Text": "Performanțe"
+          },
+          {
+            "Id": 3,
+            "Text": "Limitări"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 107,
+        "Text": "Cântărirea planorului pentru fișa de centraj se face cu linia de referință a fuselajului așezată în poziție:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "corespunzătoare zborului la finețe optimă (fuselaj în atitudinea de planare eficientă)"
+          },
+          {
+            "Id": 1,
+            "Text": "corespunzătoare staționării la sol"
+          },
+          {
+            "Id": 2,
+            "Text": "perfect orizontală față de sol"
+          },
+          {
+            "Id": 3,
+            "Text": "cu o abatere de +10° față de cea indicată în manual"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 108,
+        "Text": "Dacă prin trăgerea completă a manșei planorului nu se poate atinge viteza minimă (de angajare), atunci:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "centrajul este depășit înspre înainte (prea față)"
+          },
+          {
+            "Id": 1,
+            "Text": "centrajul este depășit înspre spate (prea posterior)"
+          },
+          {
+            "Id": 2,
+            "Text": "compensatorul este reglat greșit prea în spate"
+          },
+          {
+            "Id": 3,
+            "Text": "planorul zboară pe o pantă prea mică"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 109,
+        "Text": "Polara vitezelor unui planor este o reprezentare grafică a:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "vitezei de zbor (IAS) pe axa orizontală și a vitezei de înfundare (rată de coborâre) pe axa verticală"
+          },
+          {
+            "Id": 1,
+            "Text": "vitezei de zbor (IAS) pe axa verticală și a vitezei de coborâre pe axa orizontală"
+          },
+          {
+            "Id": 2,
+            "Text": "raportului dintre pierderea de înălțime și distanța parcursă exprimată în procente"
+          },
+          {
+            "Id": 3,
+            "Text": "vitezei față de sol pe axa orizontală și a vitezei indicate (IAS) pe axa verticală"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 110,
+        "Text": "Efectul de sol (ground effect) este:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "creșterea distanței de planare datorită devierii vârtejurilor marginale de către sol, la înălțimi mai mici decât o anvergură"
+          },
+          {
+            "Id": 1,
+            "Text": "apariția prematură a angajării (stall) la aterizare, la înălțimi mai mici decât jumătate din anvergura aripii"
+          },
+          {
+            "Id": 2,
+            "Text": "creșterea rezistenței totale a aeronavei la înălțimi mai mici decât jumătate din anvergură"
+          },
+          {
+            "Id": 3,
+            "Text": "un efect neglijabil în cazul planoarelor"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 111,
+        "Text": "Dacă zburați cu vânt de față ~30 km/h și doriți să pierdeți cât mai puțină înălțime între doi nori Cu, cu ce viteză veți zbura între ascendențe?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "cu o viteză mai mare decât viteza pentru finețe maximă, ajustată pentru vântul de față și ascendența estimată"
+          },
+          {
+            "Id": 1,
+            "Text": "cu viteza de coborâre minimă (viteza de înfundare minimă)"
+          },
+          {
+            "Id": 2,
+            "Text": "cu viteza pentru finețe maximă din manual"
+          },
+          {
+            "Id": 3,
+            "Text": "cu VNE (viteza maximă permisă)"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 112,
+        "Text": "Ce finețe aerodinamică trebuie să aibă un planor aflat la altitudinea de 2000 m, pentru a putea ateriza pe un aerodrom situat la 500 m altitudine, aflat la 60 km depărtare?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "40"
+          },
+          {
+            "Id": 1,
+            "Text": "35"
+          },
+          {
+            "Id": 2,
+            "Text": "45"
+          },
+          {
+            "Id": 3,
+            "Text": "50"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 113,
+        "Text": "Care dintre următoarele afirmații este corectă privind finețea efectivă a unui planor în zbor în prezența vântului?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "finețea efectivă obținută pe un tronson de zbor scade dacă vântul are componentă de față (contrar)"
+          },
+          {
+            "Id": 1,
+            "Text": "finețea efectivă obținută pe un tronson de zbor scade dacă vântul are componentă de spate"
+          },
+          {
+            "Id": 2,
+            "Text": "finețea efectivă nu este influențată de vânt"
+          },
+          {
+            "Id": 3,
+            "Text": "finețea crește la traversarea unei mase de aer descendente"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 114,
+        "Text": "În cazul decolării în remorcaj de avion, o pantă ascendentă (pistă în urcare) va:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "mări distanța de decolare"
+          },
+          {
+            "Id": 1,
+            "Text": "scurta distanța de decolare"
+          },
+          {
+            "Id": 2,
+            "Text": "mări viteza de desprindere a aeronavei"
+          },
+          {
+            "Id": 3,
+            "Text": "nu influențează distanța de decolare"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 115,
+        "Text": "Majoritatea planoarelor moderne au viteza pentru finețe maximă comparativ cu viteza de angajare:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "viteza de finețe maximă este mai mare decât viteza de angajare minimă"
+          },
+          {
+            "Id": 1,
+            "Text": "viteza de finețe maximă este mai mică decât viteza de angajare"
+          },
+          {
+            "Id": 2,
+            "Text": "viteza de finețe maximă este egală cu viteza de angajare minimă"
+          },
+          {
+            "Id": 3,
+            "Text": "viteza de finețe maximă este circa jumătate din VNE"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 116,
+        "Text": "Aerul cu densitate mare (ex.: aer rece la nivelul mării) influențează distanța de rulaj la decolare astfel:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "scurtează distanța de rulare la decolare (performanțe mai bune)"
+          },
+          {
+            "Id": 1,
+            "Text": "mărește distanța de rulare la decolare"
+          },
+          {
+            "Id": 2,
+            "Text": "nu influențează distanța de decolare"
+          },
+          {
+            "Id": 3,
+            "Text": "afectează doar avioanele, nu și planoarele"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 117,
+        "Text": "Cum este afectată finețea maximă a unui planor atunci când crește greutatea acestuia (de exemplu, cu balast de apă)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "finețea maximă rămâne practic aceeași, dar se obține la o viteză de zbor mai mare"
+          },
+          {
+            "Id": 1,
+            "Text": "finețea maximă scade proporțional cu creșterea masei"
+          },
+          {
+            "Id": 2,
+            "Text": "finețea maximă crește odată cu masa (un planor mai greu planează mai bine)"
+          },
+          {
+            "Id": 3,
+            "Text": "finețea maximă rămâne aceeași și la aceeași viteză de zbor"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 118,
+        "Text": "Cum variază viteza de angajare cu factorul de sarcină (n)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "crește cu rădăcina pătrată a factorului de sarcină (ex: la n=4, viteza de angajare devine dublă)"
+          },
+          {
+            "Id": 1,
+            "Text": "crește liniar cu factorul de sarcină"
+          },
+          {
+            "Id": 2,
+            "Text": "scade invers proporțional cu factorul de sarcină"
+          },
+          {
+            "Id": 3,
+            "Text": "nu este influențată de factorul de sarcină"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 119,
+        "Text": "Ce factor de sarcină aproximativ acționează asupra unui planor în viraj cu unghi de înclinare de 60°?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "n ≈ 2"
+          },
+          {
+            "Id": 1,
+            "Text": "n ≈ 1"
+          },
+          {
+            "Id": 2,
+            "Text": "n ≈ 1,4"
+          },
+          {
+            "Id": 3,
+            "Text": "n ≈ 3"
+          }
+        ],
+        "CorrectOptionId": 0
+      }
+    ]
+  },
+  {
+    "Name": "Performanțe umane",
+    "Questions": [
+      {
+        "Id": 120,
+        "Text": "Care este cauza apariției hipoxiei (așa-numita „boală de altitudine”)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "scăderea cantității de oxigen pe metru cub de aer la altitudini mari (presiune parțială scăzută a oxigenului)"
+          },
+          {
+            "Id": 1,
+            "Text": "creșterea cantității de dioxid de carbon din atmosferă la altitudine"
+          },
+          {
+            "Id": 2,
+            "Text": "creșterea proporției de azot în aer la altitudini mari"
+          },
+          {
+            "Id": 3,
+            "Text": "scăderea umidității aerului cu altitudinea"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 121,
+        "Text": "Care funcție a organismului este afectată prima și cel mai mult în condiții de hipoxie ușoară?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "vederea (în special vederea pe timp de noapte)"
+          },
+          {
+            "Id": 1,
+            "Text": "auzul"
+          },
+          {
+            "Id": 2,
+            "Text": "simțul echilibrului"
+          },
+          {
+            "Id": 3,
+            "Text": "simțul gustului"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 122,
+        "Text": "Hemoglobina din celulele roșii transportă oxigenul, dar se va combina mult mai ușor cu:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "monoxidul de carbon (CO)"
+          },
+          {
+            "Id": 1,
+            "Text": "dioxidul de carbon (CO₂)"
+          },
+          {
+            "Id": 2,
+            "Text": "azot (N₂)"
+          },
+          {
+            "Id": 3,
+            "Text": "hidrogen (H₂)"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 123,
+        "Text": "Care simptom principal poate indica o intoxicație cu monoxid de carbon la bord?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "dureri de cap și amețeală bruscă"
+          },
+          {
+            "Id": 1,
+            "Text": "greață și lăcrimarea ochilor"
+          },
+          {
+            "Id": 2,
+            "Text": "transpirație abundentă"
+          },
+          {
+            "Id": 3,
+            "Text": "tuse persistentă"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 124,
+        "Text": "Hiperventilația (ventilație excesivă) este de obicei cauzată de:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "stres sau anxietate care determină pilotul să respire prea repede și prea adânc"
+          },
+          {
+            "Id": 1,
+            "Text": "deficit de oxigen în aerul inspirat"
+          },
+          {
+            "Id": 2,
+            "Text": "exces de dioxid de carbon în organism"
+          },
+          {
+            "Id": 3,
+            "Text": "temperaturi ridicate în cabină"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 125,
+        "Text": "Ce trebuie să faceți dacă prezentați simptome de hiperventilație în zbor?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "să reduceți ritmul respirației (eventual să respirați într-o pungă de hârtie) și să încercați să vă calmați"
+          },
+          {
+            "Id": 1,
+            "Text": "să coborâți imediat sub 1000 m altitudine"
+          },
+          {
+            "Id": 2,
+            "Text": "să inspirați mai rapid pentru a compensa senzația de lipsă de aer"
+          },
+          {
+            "Id": 3,
+            "Text": "să treceți pe oxigen suplimentar imediat"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 126,
+        "Text": "Pentru a dezvolta complet vederea nocturnă (adaptarea ochilor la întuneric) este necesar aproximativ:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "30 de minute în întuneric"
+          },
+          {
+            "Id": 1,
+            "Text": "5 minute în întuneric"
+          },
+          {
+            "Id": 2,
+            "Text": "5 minute privind direct o lumină puternică"
+          },
+          {
+            "Id": 3,
+            "Text": "1-2 minute după oprirea luminii din cabină"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 127,
+        "Text": "După ce v-ați adaptat la întuneric, cum obțineți acuitatea vizuală maximă pentru a observa un obiect îndepărtat pe timp de noapte?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "privind ușor în depărtare față de obiect (~10° off-center)"
+          },
+          {
+            "Id": 1,
+            "Text": "privind fix direct la obiect"
+          },
+          {
+            "Id": 2,
+            "Text": "privind la ~45° lateral de obiect"
+          },
+          {
+            "Id": 3,
+            "Text": "alternând privirea de deasupra și dedesubtul obiectului"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 128,
+        "Text": "Ce este eroarea de paralaxă (în contextul indicatoarelor de bord)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "interpretarea greșită a indicației unui instrument din cauza unghiului din care este privit"
+          },
+          {
+            "Id": 1,
+            "Text": "perceperea eronată a vitezei în timpul rulajului la sol"
+          },
+          {
+            "Id": 2,
+            "Text": "tendința de a supraestima altitudinea la aterizare"
+          },
+          {
+            "Id": 3,
+            "Text": "dificultatea de a focaliza privirea la depărtare după citirea instrumentelor de aproape"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 129,
+        "Text": "Cât timp trebuie să treacă de la consumul moderat de alcool pentru a putea pilota în siguranță?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "cel puțin 8 ore"
+          },
+          {
+            "Id": 1,
+            "Text": "cel puțin 4 ore"
+          },
+          {
+            "Id": 2,
+            "Text": "12 ore"
+          },
+          {
+            "Id": 3,
+            "Text": "24 ore"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 130,
+        "Text": "Ce trebuie să faceți dacă suspectați instalarea hipoxiei la altitudine?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "să folosiți imediat oxigen suplimentar sau să coborâți la o altitudine mai joasă"
+          },
+          {
+            "Id": 1,
+            "Text": "să hiperventilați intenționat (respirații rapide) pentru a compensa"
+          },
+          {
+            "Id": 2,
+            "Text": "să treceți la aer condiționat recirculat în cabină"
+          },
+          {
+            "Id": 3,
+            "Text": "să reduceți turația motorului pentru a consuma mai puțin oxigen"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 131,
+        "Text": "Mirosul de eșapament de motor și apariția durerii de cap la bord pot indica:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "pătrunderea monoxidului de carbon în cabină (posibilă intoxicație CO)"
+          },
+          {
+            "Id": 1,
+            "Text": "o ventilație insuficientă dar fără efecte grave"
+          },
+          {
+            "Id": 2,
+            "Text": "prezența altor gaze inerte inofensive"
+          },
+          {
+            "Id": 3,
+            "Text": "că concentrația de oxigen a crescut peste normal"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 132,
+        "Text": "Care dintre următoarele simptome poate indica hipoxie?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "decolorarea albastră a buzelor și unghiilor (cianoză)"
+          },
+          {
+            "Id": 1,
+            "Text": "tinitus (țiuit în urechi)"
+          },
+          {
+            "Id": 2,
+            "Text": "transpirație accentuată"
+          },
+          {
+            "Id": 3,
+            "Text": "dureri abdominale"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 133,
+        "Text": "Ce altitudine se consideră că este limita inferioară la care apare hipoxia în mod normal (fără oxigen suplimentar)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "aproximativ 10.000 ft (cca 3000 m)"
+          },
+          {
+            "Id": 1,
+            "Text": "aproximativ 5000 ft (cca 1500 m)"
+          },
+          {
+            "Id": 2,
+            "Text": "aproximativ 22.000 ft (cca 6700 m)"
+          },
+          {
+            "Id": 3,
+            "Text": "aproximativ 7000 ft (cca 2100 m)"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 134,
+        "Text": "Care dintre simțurile umane este cel mai afectat de hipoxie?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "vederea (în special vizibilitatea pe timp de noapte)"
+          },
+          {
+            "Id": 1,
+            "Text": "auzul"
+          },
+          {
+            "Id": 2,
+            "Text": "pipăitul"
+          },
+          {
+            "Id": 3,
+            "Text": "mirosul"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 135,
+        "Text": "Semnele inițiale ale instalării hipoxiei includ:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "dificultăți de coordonare (stângăcie) și senzație de căldură (bufeuri)"
+          },
+          {
+            "Id": 1,
+            "Text": "scăderea ritmului cardiac și somnolență bruscă"
+          },
+          {
+            "Id": 2,
+            "Text": "hiperactivitate și agitație extremă"
+          },
+          {
+            "Id": 3,
+            "Text": "tuse seacă persistentă"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 136,
+        "Text": "Ce efect are accelerarea pozitivă (forțele G+) asupra pilotului?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "sângele tinde să se acumuleze în partea inferioară a corpului, putând provoca pierderea temporară a vederii (vedere încețoșată sau „grey-out/black-out”)"
+          },
+          {
+            "Id": 1,
+            "Text": "sângele este împins către cap, provocând înroșirea vederii („red-out”)"
+          },
+          {
+            "Id": 2,
+            "Text": "nu are efect fiziologic semnificativ"
+          },
+          {
+            "Id": 3,
+            "Text": "produce doar o ușoară creștere a tensiunii arteriale fără alte efecte"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 137,
+        "Text": "Ce procent din informațiile necesare unui pilot sunt obținute prin simțul vederii?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "aproximativ 80-90%"
+          },
+          {
+            "Id": 1,
+            "Text": "aproximativ 50%"
+          },
+          {
+            "Id": 2,
+            "Text": "aproximativ 20%"
+          },
+          {
+            "Id": 3,
+            "Text": "aproximativ 100%"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 138,
+        "Text": "Ce denumire are iluzia senzorială în care un pilot care accelerează în linie dreaptă are impresia că botul aeronavei se ridică?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "iluzia somatogravă"
+          },
+          {
+            "Id": 1,
+            "Text": "iluzia somatogiră"
+          },
+          {
+            "Id": 2,
+            "Text": "iluzia autokinetică"
+          },
+          {
+            "Id": 3,
+            "Text": "iluzia coriolis"
+          }
+        ],
+        "CorrectOptionId": 0
+      }
+    ]
+  },
+  {
+    "Name": "Principiile zborului",
+    "Questions": [
+      {
+        "Id": 139,
+        "Text": "Ce se întâmplă cu presiunea statică a aerului atunci când crește viteza de curgere a aerului pe extradosul aripii?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "scade"
+          },
+          {
+            "Id": 1,
+            "Text": "crește"
+          },
+          {
+            "Id": 2,
+            "Text": "rămâne constantă"
+          },
+          {
+            "Id": 3,
+            "Text": "devine egală cu presiunea totală"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 140,
+        "Text": "Cum se definește coarda profilului unei aripi?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "linia care unește punctele extreme (bordul de atac și bordul de fugă) ale profilului"
+          },
+          {
+            "Id": 1,
+            "Text": "linia care unește bordul de fugă al aripii cu direcția curgerii aerului"
+          },
+          {
+            "Id": 2,
+            "Text": "curbura liniei extradosului profilului"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 141,
+        "Text": "Care dintre următoarele afirmații este adevărată despre presiunea dinamică?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "presiunea dinamică depinde (este influențată) de viteza de deplasare a aerului"
+          },
+          {
+            "Id": 1,
+            "Text": "presiunea statică este întotdeauna egală cu presiunea dinamică"
+          },
+          {
+            "Id": 2,
+            "Text": "presiunea dinamică este influențată direct de altitudine (independent de viteză)"
+          },
+          {
+            "Id": 3,
+            "Text": "presiunea dinamică nu are legătură cu densitatea aerului"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 142,
+        "Text": "Din ce se compune rezistența totală la înaintare a unui avion?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "rezistență parazită și rezistență indusă"
+          },
+          {
+            "Id": 1,
+            "Text": "rezistență de formă și rezistență de frecare"
+          },
+          {
+            "Id": 2,
+            "Text": "rezistență indusă și rezistență de profil"
+          },
+          {
+            "Id": 3,
+            "Text": "rezistență la înaintare și rezistență la portanță"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 143,
+        "Text": "Cum afectează poziția centrului de greutate stabilitatea longitudinală a unui avion?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "un centrul de greutate avansat (spre față) crește stabilitatea longitudinală, dar scade manevrabilitatea"
+          },
+          {
+            "Id": 1,
+            "Text": "un centrul de greutate avansat reduce stabilitatea longitudinală, dar crește manevrabilitatea"
+          },
+          {
+            "Id": 2,
+            "Text": "centrul de greutate nu influențează stabilitatea"
+          },
+          {
+            "Id": 3,
+            "Text": "un centrul de greutate în spate crește stabilitatea și scade performanța"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 144,
+        "Text": "La creșterea unghiului de atac al aripii (până la unghiul critic), forța portantă:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "crește până la un punct maxim (unghiul critic), după care scade brusc (angajare/stall)"
+          },
+          {
+            "Id": 1,
+            "Text": "crește continuu, proporțional cu unghiul de atac"
+          },
+          {
+            "Id": 2,
+            "Text": "rămâne constantă indiferent de unghiul de atac"
+          },
+          {
+            "Id": 3,
+            "Text": "scade odată cu unghiul de atac"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 145,
+        "Text": "Cum se modifică viteza de angajare (stall) a unei aripi când se modifică camberul (curbura) aripii prin folosirea flapsurilor?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "viteza de angajare scade când se deflectează flapsurile (flapsuri coborâte)"
+          },
+          {
+            "Id": 1,
+            "Text": "viteza de angajare crește când flapsurile sunt extinse"
+          },
+          {
+            "Id": 2,
+            "Text": "viteza de angajare nu este influențată de poziția flapsurilor"
+          },
+          {
+            "Id": 3,
+            "Text": "flapsurile nu afectează unghiul critic de incidență"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 146,
+        "Text": "Care este efectul fantei de bord de atac (slots) asupra caracteristicilor de angajare?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "permite un unghi de atac mai mare fără angajare (îmbunătățește caracteristicile de stall)"
+          },
+          {
+            "Id": 1,
+            "Text": "crește viteza de angajare"
+          },
+          {
+            "Id": 2,
+            "Text": "scade unghiul critic de incidență"
+          },
+          {
+            "Id": 3,
+            "Text": "nu are efect asupra zborului la unghiuri mari"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 147,
+        "Text": "Ce se întâmplă cu punctul de presiune (centru de presiune) al unui profil nesimetric pe măsură ce unghiul de atac crește (înainte de angajare)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "se deplasează spre partea frontală a profilului"
+          },
+          {
+            "Id": 1,
+            "Text": "rămâne fix la 25% din coardă"
+          },
+          {
+            "Id": 2,
+            "Text": "se deplasează spre spatele profilului"
+          },
+          {
+            "Id": 3,
+            "Text": "se deplasează haotic fără o regulă"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 148,
+        "Text": "Care este principalul efect al unui diedru pozitiv al aripilor?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "crește stabilitatea laterală a aeronavei"
+          },
+          {
+            "Id": 1,
+            "Text": "scade stabilitatea laterală, dar crește manevrabilitatea"
+          },
+          {
+            "Id": 2,
+            "Text": "crește portanța maximă a aripii"
+          },
+          {
+            "Id": 3,
+            "Text": "reduce rezistența parazită"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 149,
+        "Text": "Cum se schimbă rezistența indusă și rezistența parazită odată cu creșterea vitezei aeronavei în zbor orizontal?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "rezistența indusă scade, iar rezistența parazită crește odată cu viteza"
+          },
+          {
+            "Id": 1,
+            "Text": "ambele tipuri de rezistență cresc odată cu viteza"
+          },
+          {
+            "Id": 2,
+            "Text": "rezistența indusă crește, iar rezistența parazită scade cu viteza"
+          },
+          {
+            "Id": 3,
+            "Text": "ambele tipuri de rezistență scad odată cu creșterea vitezei"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 150,
+        "Text": "Care este definiția fineței aerodinamice (raportul de planare)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "raportul dintre portanță (forța portantă, Cz) și rezistență la înaintare (Cx)"
+          },
+          {
+            "Id": 1,
+            "Text": "raportul dintre Cx și Cz"
+          },
+          {
+            "Id": 2,
+            "Text": "raportul dintre portanță și greutatea aeronavei"
+          },
+          {
+            "Id": 3,
+            "Text": "unghiul sub care planează aeronava în raport cu orizontul"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 151,
+        "Text": "Ce este un unghi de șuier (sideslip angle)?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "unghiul dintre direcția de înaintare a aeronavei și planul său de simetrie (diferit de 0 în alunecare laterală)"
+          },
+          {
+            "Id": 1,
+            "Text": "unghiul dintre vectorul viteză și orizont"
+          },
+          {
+            "Id": 2,
+            "Text": "unghiul de înclinare în viraj (bank angle)"
+          },
+          {
+            "Id": 3,
+            "Text": "diferența dintre direcția indicată de busolă și direcția reală"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 152,
+        "Text": "Care este rolul eleroanelor pe aripi?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "controlează mișcarea de ruliu (înclinare) a aeronavei în jurul axei longitudinale"
+          },
+          {
+            "Id": 1,
+            "Text": "controlează mișcarea de tangaj (în jurul axei laterale)"
+          },
+          {
+            "Id": 2,
+            "Text": "augmentează portanța la decolare"
+          },
+          {
+            "Id": 3,
+            "Text": "controlează direcția aeronavei în plan orizontal"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 153,
+        "Text": "Care este rolul profundorului (elevator) la un avion?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "controlează mișcarea de tangaj (înclinare pe verticală a botului) în jurul axei laterale"
+          },
+          {
+            "Id": 1,
+            "Text": "controlează mișcarea de girație (yaw) în jurul axei verticale"
+          },
+          {
+            "Id": 2,
+            "Text": "controlează rularea (mișcarea pe direcție longitudinală)"
+          },
+          {
+            "Id": 3,
+            "Text": "controlează stabilitatea direcțională"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 154,
+        "Text": "Ce fenomen are loc dacă unghiul de atac depășește unghiul critic de incidență?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "aripa pierde portanța (intră în angajare/stall)"
+          },
+          {
+            "Id": 1,
+            "Text": "aerul devine laminar pe extrados"
+          },
+          {
+            "Id": 2,
+            "Text": "crește brusc portanța"
+          },
+          {
+            "Id": 3,
+            "Text": "centrul de presiune avansează foarte mult"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 155,
+        "Text": "Cum influențează vâscozitatea și densitatea aerului caracteristicile de zbor?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "creșterea densității aerului îmbunătățește portanța și crește rezistența la înaintare, iar vâscozitatea afectează stratul limită și rezistența de frecare"
+          },
+          {
+            "Id": 1,
+            "Text": "densitatea aerului nu afectează portanța, doar vâscozitatea contează"
+          },
+          {
+            "Id": 2,
+            "Text": "un aer mai dens scade portanța"
+          },
+          {
+            "Id": 3,
+            "Text": "vâscozitatea mai mare reduce rezistența la înaintare"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 156,
+        "Text": "La viteze sub cea de finețe maximă, rezistența totală a unui planor crește din cauza:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "creșterii rezistenței induse (cauzată de unghiul de atac mare necesar pentru a susține portanța)"
+          },
+          {
+            "Id": 1,
+            "Text": "creșterii rezistenței parazite"
+          },
+          {
+            "Id": 2,
+            "Text": "efectului compresibilității aerului"
+          },
+          {
+            "Id": 3,
+            "Text": "scăderii eficienței eleroanelor"
+          }
+        ],
+        "CorrectOptionId": 0
+      }
+    ]
+  },
+  {
+    "Name": "Proceduri operaționale",
+    "Questions": [
+      {
+        "Id": 157,
+        "Text": "Ce categorie de aeronavă are prioritate de trecere în zbor: un planor sau un avion motorizat?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "planorul (aeronava fără motor are prioritate în fața celei motorizate)"
+          },
+          {
+            "Id": 1,
+            "Text": "avionul motorizat are prioritate față de planor"
+          },
+          {
+            "Id": 2,
+            "Text": "are prioritate aeronava mai rapidă"
+          },
+          {
+            "Id": 3,
+            "Text": "prioritatea se stabilește prin acord radio"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 158,
+        "Text": "Care aeronavă are prioritate la aterizare dacă un planor și un avion se apropie simultan de aerodrom?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "planorul (datorită capacității reduse de manevră la aterizare și imposibilității de remisă)"
+          },
+          {
+            "Id": 1,
+            "Text": "aeronava care vine de la dreapta față de cealaltă"
+          },
+          {
+            "Id": 2,
+            "Text": "aeronava mai rapidă"
+          },
+          {
+            "Id": 3,
+            "Text": "avionul motorizat, deoarece poate controla mai bine abordarea"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 159,
+        "Text": "În zborul de pantă (soaring dinamic de-a lungul unui versant), două planoare zburând în direcții opuse se întâlnesc. Care planor are prioritate?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "planorul care are versantul pe dreapta sa (versant pe partea dreaptă a direcției sale de zbor)"
+          },
+          {
+            "Id": 1,
+            "Text": "planorul care are versantul pe stânga sa"
+          },
+          {
+            "Id": 2,
+            "Text": "planorul aflat la altitudine mai mare"
+          },
+          {
+            "Id": 3,
+            "Text": "planorul mai rapid"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 160,
+        "Text": "Ce semnal de urgență folosește avionul remorcher pentru a indica planorului să se elibereze imediat în cazul unei probleme?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "balansarea (clătinarea) aripilor avionului remorcher"
+          },
+          {
+            "Id": 1,
+            "Text": "semnale luminoase intermitente cu farul de aterizare"
+          },
+          {
+            "Id": 2,
+            "Text": "tragerea de trei ori scurt a cablului de remorcaj"
+          },
+          {
+            "Id": 3,
+            "Text": "zig-zag rapid pe direcție"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 161,
+        "Text": "Virajele în circuitul de aerodrom (traficul de aerodrom) la un aerodrom necontrolat se efectuează de obicei către:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "stânga (circuit stânga), dacă nu este specificat altfel în AIP"
+          },
+          {
+            "Id": 1,
+            "Text": "dreapta, standard"
+          },
+          {
+            "Id": 2,
+            "Text": "direcția vântului dominant"
+          },
+          {
+            "Id": 3,
+            "Text": "alternativ, un tur stânga urmat de un tur dreapta"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 162,
+        "Text": "Ordinea prioritară la aterizare între categorii de aeronave (mai puțin cele în primejdie) este:",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "balon, planor, dirijabil, aeronavă de transport/motor"
+          },
+          {
+            "Id": 1,
+            "Text": "planor, balon, aeronavă motor"
+          },
+          {
+            "Id": 2,
+            "Text": "avion comercial, apoi celelalte"
+          },
+          {
+            "Id": 3,
+            "Text": "nu există o ordine generală, depinde de turnul de control"
+          }
+        ],
+        "CorrectOptionId": 0
+      },
+      {
+        "Id": 163,
+        "Text": "În timpul remorcajului de avion, dacă planorul urcă deasupra planului avionului remorcher, ce trebuie să facă pilotul de planor?",
+        "Options": [
+          {
+            "Id": 0,
+            "Text": "să coboare imediat la poziția corectă pentru a evita relaxarea cablului (să revină la altitudinea remorcherului)"
+          },
+          {
+            "Id": 1,
+            "Text": "să urce și mai mult pentru a întinde cablul"
+          },
+          {
+            "Id": 2,
+            "Text": "să balanseze aripile ca semnal"
+          },
+          {
+            "Id": 3,
+            "Text": "să decupleze imediat de la remorcher"
+          }
+        ],
+        "CorrectOptionId": 0
+      }
+    ]
+  }
+]

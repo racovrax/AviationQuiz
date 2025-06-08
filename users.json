@@ -1,0 +1,15 @@
+[
+  {
+    "Id": "041bac40-f3b6-4b3e-a83d-f306528064e4",
+    "Username": "admin",
+    "Password": "admin",
+    "Role": "Admin"
+  },
+  { 
+    "Id": "041bac40-f3b6-4b3e-a83d-f306528064e9",
+    "Username": "user",
+    "Password": "user",
+    "Role": "User"
+  }
+
+]
